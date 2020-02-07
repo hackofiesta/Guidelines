@@ -8,12 +8,7 @@ When you submit any Personal Information through our Website, you agree to the t
 
 ## Information Collected
 
-We may collect Personal Information that you submit to us voluntarily through our Website or our portal on skillenza. We collect this information when you register, create and edit a profile, answer survey questions, enter contests, use certain features on the site, or submit information to an event organiser. The types of information you can choose to provide on our site may include, without limitation,:
-
-- Name, username, password, email address, and contact information.
-- Billing and shipping addresses, credit card number, and expiration date.
-- We or our third party service providers may also gather information relating to your devices, including: device model, operating system, browser type, unique device identifier, IP address, mobile phone number, mobile network carrier, location, and event information (such as application installations).
-- Other Personal Information you choose to provide such as your preferences, etc.
+We may collect Personal Information that you submit to us voluntarily through our Website or through Google Forms. We collect this information when you register for the hackathon. 
 
 ## Use of Information
 
@@ -21,12 +16,8 @@ We may use your Personal Information for the following general purposes:
 
 - To fulfil or respond to your inquiries.
 - To address administrative needs and communications.
-- To improve our products and services.
-- To contact you for internal business purposes.
-- To provide you with newsletters, surveys, promotions, and notices on changes and upgrades to our products and services.
-- Marketing communications from third parties at your request.
+- To contact you for internal purposes
 
-We use Anonymous Information such as web or mobile pages you have viewed, in order to analyse request and usage patterns so that we may improve our products and services, enhance our user experience, and gather broad demographic information for aggregate use. Anonymous Information consists of data that would not identify you personally; these records exclude information (such as your name) that makes them personally identifiable to you. We may disclose Anonymous Information to third parties that promote our products and services. Hackofiesta reserves the right to use and disclose Anonymous Information to third parties in its discretion.
 
 ## Information Sharing
 
