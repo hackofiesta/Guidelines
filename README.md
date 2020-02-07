@@ -12,14 +12,29 @@ Contained within are:
 
 - [Contest Terms](contest-terms.md)
 
-### Recommended Guidelines
+### Timeline
 
-- Hackathon Rules will be updated soon.
+**_The following would be the schedule for the event_**
+
+7th February 10:00 pm - Opening Ceremony
+
+7th February 11:00 pm - Coding Starts
+
+8th February 8:00 am - Breakfast 
+
+8th February 1:00 pm - Lunch
+
+8th February 4:00 pm - First Evaluation
+
+8th February 8:00 pm - Dinner
+
+9th February 7:00 am - Breakfast
+
+9th February 10:00 am - Second Evaluation
+
+9th February 11:30 am - Final Presentation
 
 ## Submissions
 
 - Hackathon Project Submission for Hackofiesta have to be done in the [Submissions repository](https://github.com/hackofiesta/Submissions) following the appropriate guidelines mentioned there.
 
-## Thanks to MLH
-
-We would most graciously like to thank [The Major Hacking League](https://mlh.io/) for having such a wonderful set of rules, which inspired us a lot in making up the guidelines for Hackofiesta.
